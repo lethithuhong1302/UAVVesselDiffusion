@@ -1,6 +1,8 @@
 # UAVVesselDiffusion
 This repository is a diffusion-based framework for synthetic UAV vessel image generation and data augmentation for vessel detection tasks.
-![](figs/fig2_UnetCRF.jpg)
+![](figs/Figure2.pdf)
+![](figs/Figure3.jpg)
+![](figs/Figure5.jpg)
 # Prerequisites
 1. Linux or OSX
 2. NVIDIA GPU + CUDA CuDNN (CPU mode and CUDA without CuDNN may work with minimal modification, but untested)
