@@ -30,10 +30,11 @@ This repository is a diffusion-based framework for synthetic UAV vessel image ge
 8. Utraltic
 
 # Datasets
-The images and labels of the two synthetic vessel detection datasets, **ADPSynImg** and **FluxSyn**, generated using our proposed data synthesis methods, can be downloaded here 
-
-Download link:
+The images and labels of the two synthetic vessel detection datasets, **ADPSynImg** and **FluxSyn**, generated using our proposed data synthesis methods, can be downloaded here:
   - https://drive.google.com/drive/folders/1UDGWlorV5UbZfCXyTGVaxyejJMfA378x?usp=sharing
+
+The **VESSELimg** dataset is available open-source in the Roboflow platform: 
+  - https://universe.roboflow.com/b-rubi/vesselimg
 
 
 # Email
