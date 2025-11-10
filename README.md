@@ -1,6 +1,6 @@
 # UAVVesselDiffusion
 This repository is a diffusion-based framework for synthetic UAV vessel image generation and data augmentation for vessel detection tasks.
-![](figs/Figure2.pdf)
+![](figs/Figure2.jpg)
 ![](figs/Figure3.jpg)
 ![](figs/Figure5.jpg)
 # Prerequisites
