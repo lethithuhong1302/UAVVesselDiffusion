@@ -11,12 +11,12 @@ This repository is a diffusion-based framework for synthetic UAV vessel image ge
 
 ![](figs/Figure2.jpg)
 <p align="center">
-  <b>Fig.2. Synthetic image generator using multimodal language and diffusion models</b>
+  <b>Fig.2. Dual-Stage Synthetic Image Generation</b>
 </p>
 
 ![](figs/Figure3.jpg)
 <p align="center">
-  <b> Fig.3.Synthetic dataset generation for rare object classes</b>
+  <b> Fig.3. Context-Aware Co-Segmentation Image Generation</b>
 </p>
 
 # Prerequisites
