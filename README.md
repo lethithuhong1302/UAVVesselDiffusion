@@ -1,26 +1,26 @@
 # UAVVesselDiffusion
-This repository is a diffusion-based framework for synthetic UAV vessel image generation and data augmentation for vessel detection tasks.
-![](figs/Figure2.jpg)
+This repository is a diffusion-based framework for synthetic UAV vessel image generation and data augmentation for vessel detection tasks, official implementation of the paper "CRF-EfficientUNet: an improved UNet framework for polyp segmentation in colonoscopy images with combined asymmetric loss function and CRF-RNN layer"
+![](figs/Figure2.jpg) 
 ![](figs/Figure3.jpg)
 ![](figs/Figure5.jpg)
 # Prerequisites
 1. Linux or OSX
 2. NVIDIA GPU + CUDA CuDNN (CPU mode and CUDA without CuDNN may work with minimal modification, but untested)
+3. Python3.10
+4. Opencv-python==4.3.0
+5. torch==2.7.0, torchvision==0.22.05
+6. Diffusers==0.35.1
+7. transformers=4.49.0
+8. Utraltic
 
-4. tensorflow==1.13.1
-5. numpy==1.18.5
-6. Keras==2.2.4
-7. opencv-python==4.3.0
+# Datasets
+The images and labels of the two synthetic vessel detection datasets, **ADPSynImg** and **FluxSyn**, generated using our proposed data synthesis methods, can be downloaded here 
 
-## Cite
-If you find our work useful in your research or publication, please cite our work:
-```
-@article{thanh2021crf,
-  title={CRF-EfficientUNet: An Improved UNet Framework for Polyp Segmentation in Colonoscopy Images With Combined Asymmetric Loss Function and CRF-RNN Layer},
-  author={Thanh, Nguyen Chi and Long, Tran Quoc and Hong, Le Thi Thu},
-  journal={IEEE Access},
-  volume={9},
-  pages={156987--157001},
-  year={2021},
-  publisher={IEEE}
-}
+Download link:
+   
+  * [Google Drive]：
+  - https://drive.google.com/drive/folders/1UDGWlorV5UbZfCXyTGVaxyejJMfA378x?usp=sharing
+
+
+# Email
+Any questions, you can contact: hongltt@ioit.ai.vn;
