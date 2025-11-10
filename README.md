@@ -1,5 +1,8 @@
 # UAVVesselDiffusion
-This repository is a diffusion-based framework for synthetic UAV vessel image generation and data augmentation for vessel detection tasks, official implementation of the paper "CRF-EfficientUNet: an improved UNet framework for polyp segmentation in colonoscopy images with combined asymmetric loss function and CRF-RNN layer"
+This repository is a diffusion-based framework for synthetic UAV vessel image generation and data augmentation for vessel detection tasks, official implementation of the paper:
+<p align="center">
+ "Addressing Data Scarcity and Imbalance in Vessel Detection from UAV-Captured Images via Diffusion-Based Multimodal Synthesis and Context-Aware Compositing"
+</p>
 
 ![](figs/Figure1.jpg) 
 <p align="center">
